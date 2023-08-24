@@ -1,0 +1,45 @@
+:root {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+
+    color-scheme: light dark;
+    color: rgba(255, 255, 255, 0.87);
+    background-color: #242424;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    place-items: center;
+    min-width: 320px;
+    min-height: 100vh;
+}
+
+main {
+    display: grid;
+    place-items: stretch;
+    min-width: 100vw;
+    font-weight: 700;
+}
+
+.day {
+    font-size: min(10vh, 8vw);
+    text-align: center;
+
+    &.highlight {
+        color: rgb(214, 18, 18);
+    }
+}
+
+.hour {
+    font-size: min(30vh, 24vw);
+    text-align: center;
+}
+
+.date {
+    display: flex;
+    justify-content: space-between;
+    font-size: min(13vh, 11vw);
+    margin: 0 15vw;
+}
