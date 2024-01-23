@@ -1,28 +1,16 @@
-## Usage
+# Alzheimer Clock
 
-```bash
-$ npm install # or pnpm install or yarn install
-```
+Very simple site displaying clock and date on the whole page
 
-### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
+---
 
-## Available Scripts
+### Used technologies
 
-In the project directory, you can run:
+[<img align="left" width="26px" alt= "JavaScript" src="https://raw.githubusercontent.com/MarcinSkic/marcinskic/main/icons/solid.svg" style="padding: 0 20px 20px 0"></img>][solid]
+[<img align="left" width="26px" alt= "JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding: 0 20px 20px 0"></img>][ts]
+[<img align="left" width="26px" alt= "CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding: 0 20px 20px 0"></img>][css]
 
-### `npm run dev`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
-
-### `npm run build`
-
-Builds the app for production to the `dist` folder.<br>
-It correctly bundles Solid in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-## Deployment
-
-Learn more about deploying your application with the [documentations](https://vitejs.dev/guide/static-deploy.html)
+[solid]: https://solidjs.com
+[ts]: https://en.wikipedia.org/wiki/JavaScript
+[css]: https://en.wikipedia.org/wiki/CSS
+[html]: https://en.wikipedia.org/wiki/HTML
