@@ -11,6 +11,6 @@ Very simple site displaying clock and date on the whole page
 [<img align="left" width="26px" alt= "CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding: 0 20px 20px 0"></img>][css]
 
 [solid]: https://solidjs.com
-[ts]: https://en.wikipedia.org/wiki/JavaScript
+[ts]: https://www.typescriptlang.org
 [css]: https://en.wikipedia.org/wiki/CSS
 [html]: https://en.wikipedia.org/wiki/HTML
